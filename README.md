@@ -6,6 +6,7 @@
 
 -   It helps understand and handle complex structure.
 -   Took 4 hours to complete this project.
+-   Responsive in all devices.
 
 ---
 
